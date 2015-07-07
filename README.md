@@ -6,7 +6,7 @@ Writing for *iOS Developers* is a simple process. By following this guide, you'l
 - Use markdown. We suggest the popular open source Markdown editor for OS X, _[MacDown](http://macdown.uranusjr.com)_.
 - Each author will have their own directory. You **must** use this directory for all of your posts.
 - Fork this repo. Write your article in your directory, naming the file the same as the title of your article, all lowercase replacing spaces with `-`.
-- Once your post is ready for review, set up a pull request to the `master` branch on iosdevelopershq/blog. One of the authors will review your PR and once they're happy with it, they'll merge it to `master`.
+- Once your post is ready for review, set up a pull request to the `master` branch on [iosdevelopershq/blog](https://github.com/iosdevelopershq/blog). One of the authors will review your PR and once they're happy with it, they'll merge it to `master`.
 - Once your article has been approved copy it over to [Blog](https://ios-developers.ghost.io/ghost/).
 
 ## When reviewing
